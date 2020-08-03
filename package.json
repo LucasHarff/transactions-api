@@ -1,0 +1,17 @@
+{
+  "name": "transactions-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LucasHarff/transactions-api",
+  "author": "Ricardo Montoya <ricardomontoya2002@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.3.0",
+    "uuidv4": "^6.2.1"
+  }
+}
